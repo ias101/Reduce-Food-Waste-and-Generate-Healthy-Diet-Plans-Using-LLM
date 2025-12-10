@@ -1,5 +1,5 @@
 # MealMind - Reduce Food Waste and Generate Healthy Diet Plans Using LLM
-
+[Paper](./Bep.pdf)
 ## 📖 Overview
 
 **MealMind** is an AI-powered application designed to tackle two critical global challenges: **food waste reduction** and **personalized meal planning**. By leveraging Large Language Models (LLMs) and semantic search techniques, MealMind helps users transform surplus food into delicious, nutritious meals while generating diet plans tailored to their lifestyle and health goals.
